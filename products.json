@@ -1,0 +1,50 @@
+{
+  "0123456789012": {
+    "product_name": "Oreo Cookies",
+    "ingredients_text": "Sugar, Wheat Flour, Palm Oil, Cocoa, Emulsifier, Salt"
+  },
+  "8901030101015": {
+    "product_name": "Maggi Noodles",
+    "ingredients_text": "Wheat Flour, Salt, Palm Oil, Flavour, MSG, Spices"
+  },
+  "4902430112345": {
+    "product_name": "Coca Cola",
+    "ingredients_text": "Carbonated Water, Sugar, Caramel Color, Phosphoric Acid, Natural Flavour, Caffeine"
+  },
+  "8901050102020": {
+    "product_name": "Lay's Classic Chips",
+    "ingredients_text": "Potatoes, Vegetable Oil, Salt"
+  },
+  "8901010103030": {
+    "product_name": "Parle-G Biscuits",
+    "ingredients_text": "Wheat Flour, Sugar, Vegetable Oil, Leavening Agents, Salt"
+  },
+  "8901010104040": {
+    "product_name": "Britannia Marie Gold",
+    "ingredients_text": "Wheat Flour, Sugar, Vegetable Oil, Salt, Leavening Agents"
+  },
+  "8906001001010": {
+    "product_name": "Pepsi",
+    "ingredients_text": "Carbonated Water, Sugar, Colour, Phosphoric Acid, Caffeine, Flavour"
+  },
+  "8901030105050": {
+    "product_name": "KitKat Chocolate",
+    "ingredients_text": "Sugar, Wheat Flour, Cocoa Butter, Cocoa Mass, Milk Solids, Emulsifier"
+  },
+  "8901030106060": {
+    "product_name": "Nestle Munch",
+    "ingredients_text": "Sugar, Wheat Flour, Cocoa, Milk Solids, Palm Oil, Emulsifier"
+  },
+  "8901030107070": {
+    "product_name": "Cadbury Dairy Milk",
+    "ingredients_text": "Milk, Sugar, Cocoa Butter, Cocoa Mass, Emulsifier"
+  },
+  "8901030108080": {
+    "product_name": "Horlicks",
+    "ingredients_text": "Malted Barley, Wheat, Milk Solids, Sugar, Vitamins, Minerals"
+  },
+  "8901030109090": {
+    "product_name": "Boost",
+    "ingredients_text": "Malted Barley, Milk Solids, Sugar, Cocoa, Vitamins, Minerals"
+  }
+}
